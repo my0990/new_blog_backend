@@ -11,4 +11,4 @@ const printInfo = ctx => {
 
 posts.get('/', printInfo)
 
-export default posts
+export default posts;
